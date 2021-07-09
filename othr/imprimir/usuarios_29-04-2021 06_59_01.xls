@@ -1,0 +1,51 @@
+<table>
+
+<br>
+<h1>Tabla de registro de usuarios</h1>
+<br><br>
+<thead>
+<tr style='background-color:lightslategray'>
+    <th style='border: 1px solid black; text-align:center; font-weight: bold; font-size:15px'>Codigo</th>
+    <th style='border: 1px solid black; text-align:center; font-weight: bold; font-size:15px'>Nombre</th>
+    <th style='border: 1px solid black; text-align:center; font-weight: bold; font-size:15px'>Tipo</th>
+    <th style='border: 1px solid black; text-align:center; font-weight: bold; font-size:15px'>Carrera</th>
+    
+</tr>
+</thead>
+<tbody>
+            <thead >
+            <tr>
+                <th style='border: 1px solid black; text-align:center; font-size:15px'>42700</th>
+                <th style='border: 1px solid black; text-align:center; font-size:15px'>Soriana</th>
+                <th style='border: 1px solid black; text-align:center; font-size:15px'>Residencia_Profecional</th>
+                <th style='border: 1px solid black; text-align:center; font-size:15px'>Los de Tic´s</th>
+            </tr>
+        </thead>
+        
+            <thead >
+            <tr>
+                <th style='border: 1px solid black; text-align:center; font-size:15px'>4289</th>
+                <th style='border: 1px solid black; text-align:center; font-size:15px'>Coppel </th>
+                <th style='border: 1px solid black; text-align:center; font-size:15px'>Residencia_Profecional</th>
+                <th style='border: 1px solid black; text-align:center; font-size:15px'>Ing. Sistemas Computacionales</th>
+            </tr>
+        </thead>
+        
+            <thead >
+            <tr>
+                <th style='border: 1px solid black; text-align:center; font-size:15px'>43_fdf</th>
+                <th style='border: 1px solid black; text-align:center; font-size:15px'>Fabrica de Software</th>
+                <th style='border: 1px solid black; text-align:center; font-size:15px'>Servicio_Social</th>
+                <th style='border: 1px solid black; text-align:center; font-size:15px'>Ing. Sistemas Computacionales</th>
+            </tr>
+        </thead>
+        
+            <thead >
+            <tr>
+                <th style='border: 1px solid black; text-align:center; font-size:15px'>56-lklñ</th>
+                <th style='border: 1px solid black; text-align:center; font-size:15px'>construcciones Pachuca</th>
+                <th style='border: 1px solid black; text-align:center; font-size:15px'>Servicio_Social</th>
+                <th style='border: 1px solid black; text-align:center; font-size:15px'>Arquitectura</th>
+            </tr>
+        </thead>
+        
